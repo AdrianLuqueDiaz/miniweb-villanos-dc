@@ -7,6 +7,7 @@ $villains = $query->fetchAll(PDO::FETCH_ASSOC);
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Villanos de DC Comics</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
     <style>
@@ -30,6 +31,9 @@ $villains = $query->fetchAll(PDO::FETCH_ASSOC);
             transition: transform 0.3s ease, box-shadow 0.3s ease;
             animation: fadeInUp 0.8s ease forwards;
             color: #f0f0f0;
+            width: 100%;
+            max-width: 350px;
+            margin: 0 auto;
         }
 
         .card:hover {

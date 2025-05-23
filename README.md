@@ -16,9 +16,9 @@ Bane
 Darkseid
 
 ## Tecnologías utilizadas
-PHP (lógica de servidor)
-MySQL (base de datos)
-Bootstrap (diseño responsivo)
+PHP 
+MySQL 
+Bootstrap 
 jQuery (interactividad)
 
 ##  Web online

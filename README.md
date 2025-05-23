@@ -18,8 +18,8 @@ Darkseid
 ## Tecnologías utilizadas
 PHP, 
 MySQL, 
-Bootstrap, 
-y jQuery
+Bootstrap 
+y jQuery.
 
 ##  Web online
 Puedes ver el proyecto en:

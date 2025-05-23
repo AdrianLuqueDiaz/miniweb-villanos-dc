@@ -6,7 +6,7 @@ Cada villano tiene:
 Nombre
 Alias
 Primera aparición
-Poderes (mostrables mediante botón)
+Poderes (mostrables mediante el botón)
 
 ## Villanos incluidos
 Joker
@@ -16,10 +16,10 @@ Bane
 Darkseid
 
 ## Tecnologías utilizadas
-PHP 
-MySQL 
-Bootstrap 
-jQuery (interactividad)
+PHP, 
+MySQL, 
+Bootstrap, 
+y jQuery
 
 ##  Web online
 Puedes ver el proyecto en:

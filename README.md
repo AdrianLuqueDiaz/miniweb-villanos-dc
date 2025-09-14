@@ -26,4 +26,4 @@ Puedes ver el proyecto en:
 https://dcvillains.rf.gd
 
 ## Autor
-AdriProGamer2011 – Módulo: Despliegue de aplicaciones web
+Adrián Luque Díaz – Módulo: Despliegue de aplicaciones web
